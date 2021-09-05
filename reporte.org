@@ -1,0 +1,228 @@
+#+TITLE: Impartición de Metodología "The Social Business Journey" para el evento CENITAE en Tecnológico Nacional de México Campus Apizaco
+#+AUTHOR: Luis Alberto Reyes Macías
+#+DATE: 2021
+#+OPTIONS: toc:nil
+
+* Introducción
+
+* Descripción de la empresa
+
+El Tecnológico Nacional de México Campus Apizaco es una institución publica de educación superior en la cual se imparten 9 carreras a nivel licenciatura, 3 maestrías y un doctorado a nivel posgrado, enfocado en las áreas de ciencias sociales y administrativas e ingeniería, cuyas matriculas ofrecen de manera integral una formación básica que incluye el fortalecimiento científico y metodológico. 
+
+Dentro de este Campus se encuentra el Centro de Incubación e Innovación Empresarial (CIIE) el cual tiene la misión de impulsar la creación, desarrollo y sostenibilidad de empresas bajo el modelo de Incubación de Empresas, del Tecnológico Nacional de México, esto por medio de servicios de consultoría que potenciara la competitividad empresarial, permitiendo de esta manera un impacto económico y social dentro de la región, que en este caso es el estado de Tlaxcala.
+
+* Problemas a resolver 
+
+El Tecnológico Nacional de México Campus Apizaco a través de los años ha celebrado diversos eventos que buscan fomentar el espíritu emprendedor en los estudiantes pertenecientes a la institución para hallar proyectos que tengan el potencial de convertirse posteriormente en empresas de base tecnológica.
+
+Es por esto que se celebrará la Cumbre Estudiantil de Negocios e Innovación Tecnológica para la Reactivación Económica (CENITAE) esto en alianza con ENACTUS, que es una organización global con una red de emprendedores sociales, no lucrativa compuesta de empresarios, líderes académicos y estudiantes universitarios, presente en 40 países, que se dedicada a movilizar estudiantes universitarios para que transformen la realidad de las comunidades menos favorecidas del mundo de una manera sustentable.
+
+Para llevar a cabo el evento del CENITAE es necesaria la transferencia de la metodología llamada *The Social Business Journey* pues por medio de esta, los estudiantes serán capaces de cumplir con todos los requerimientos pedidos para ser partícipes del evento.
+
+A pesar de esto, existe la necesidad de desarrollar un plan interno para que la transferencia de esta metodología sea realizada de manera eficaz y eficiente pues de esta forma los estudiantes tendrán las capacidades para desempeñar un excelente rol dentro del CENITAE.
+
+* Objetivos
+
+** General
+
+Transferir la metodología *The Social Business Journey* a los estudiantes del Tecnológico Nacional de México Campus Apizaco para brindar las herramientas necesarias para la creación y formalización de modelos de negocios.
+
+** Específicos 
+
+ - Conocer cada modulo de la metodología *The Social Business Journey* a partir de la capacitación referida por parte de ENACTUS-México.
+ - Contrastar el contenido de la metodología *The Social Business Journey* con otras similares, enfocadas en la generación de modelos de negocio para de esta forma enriquecer la metodología y transmitirla a los estudiantes del Tecnógico Nacional de México Campus Apizaco.
+ - Generar una memoria que contenga las actividades y complementos necesarios para hacer mas amena la impartición de la metodología a los estudiantes del Tecnológico Nacional de México Campus Apizaco.
+
+* Justificación
+
+El emprendedurismo se entiende como el acto en el cual una persona lleva su idea a convertirse en un proyecto concreto el cual tiene la capacidad de generar innovación y empleos. Este a su vez, en años recientes el emprendedurismo se liga a la gente joven, regularmente entre los 25 y 34 años. Según el Índice de Condiciones Sistémicas para el Emprendimiento Dinámico, México es el segundo mejor país de Latinoamérica para emprender, sólo por debajo de Chile. Sus principales fortalezas son las políticas y regulaciones, las condiciones de la demanda y el capital social. Las principales debilidades son la cultura emprendedora, el capital humano emprendedor y la plataforma de ciencia y tecnología para la innovación (Kantis, Federico, & Ibarra, 2014).
+
+A pesar de esto, existe un gran desconocimiento de las múltiples metodologías existentes para llevar a cabo el emprendimiento de un negocio y que este siempre sea de alto impacto y éxito.
+
+Es por ello que ENACTUS, que es una organización global con presencia en 35 países, busca exponencia el talento de los emprendedores en el para acelerar su transformación a empresarios sociales, esto por medio del evento llamado Cumbre Estudiantil de Negocios e Innovación Tecnológica para la Reactivación Económica (CENITAE) 2021 el cual usará como principal herramienta la metodología The Social Business Journey que brinda a los estudiantes las herramientas necesarias y suficientes para la generación y formalización de Modelos de Negocios.
+
+Es por ello que la transmisión y adecuación de esta metodología es de suma importancia para que a través de ella los estudiantes del Tecnológico Nacional de México Campus Apizaco tengan el conocimiento necesario para generar sus propios negocios y de esta forma contribuir al desarrollo económico de la región.
+
+* Marco Teórico
+
+** Emprendimiento e innovación
+
+
+En la actualidad, en diversos ambitos tales como la politica y la economia se ha hecho notorio una inminente atencion hacia el concepto de emprendimiento, sin embargo no existe alguna definición lo suficientemente precisa para aterrizar todo lo que conlleva ser emprendedor.
+
+Castillo (1999) menciona que la palabra emprendedor proviene del frances entrepreneur (pionero), siendo utilizada inicialmente para referirse a aventureros que se venian al Nuevo Mundo sin saber con certeza que esperar.
+
+Por otra parte, durante el siglo XVII se definia emprendedor como la persona que compra los medios de producción y los fusiona de manera que se genera un nuevo producto.
+
+Para 1880, Alfred Marshal relaciona el emprendimiento con el ambito de la producción para agregar factores tradicionales tales como la tierra, el capital, el trabajo mientras la organización funge como el eje de coordinación.
+
+Como se ha logrado apreciar, el concepto de emprendimiento esta intimamente ligado a los actos que realiza el emprendedor.
+
+Un concepto que es afín al emprendimeitno es la innovación, pues en la literatura de ambos topicos existen diversas similitudes entre los dos, tales como: la creación,  asumir  riesgos,  la  motivación,  las  decisiones,  el  futuro,  la  oportunidad,  y  todos  estos  se relacionan al iniciar un proceso de emprendimiento conel mercado, el producto, los competidores, los proveedores, los clientes, etcetera (Vélez, 2016).
+
+La capacidad para innovar y emprender coinciden con muchos aportes que consideran que al país se le pueden aplicar estrategias competitivas, siendo estos elementos que potencian cualquier sector de la  economía,  como  generando  oportunidades  e  introduciendo  competencias  a  la  productividad. (Corredor, 2007).
+
+La innovación, desde un punto de vista empresarial, es vinculada con regularidad al termino de transformación, haciendo hincapie en la capacidad de evloucionar los procesos que se desarrollan en una organización teniendo como objetivo primordial, hacer mas eficiente y eficaz a la empresa.
+
+Pulido (2005) afirma que la innovación  es  todo  un  proceso  complejo  de  creación  y  transformación  del  conocimiento  adicional  disponible,  en  nuevas  soluciones  para  los  problemas  que  se  plantea  la  humanidad  en  su  propia  evolución.
+
+Schumpeter  (1935)  definió  innovación  en  un  sentido  general  y  tuvo  en  cuenta  diferentes  casos  de  cambio  para  ser  considerados  como  una  innovación.  Estos  son:  la  introducción  en  el  mercado  de  un  nuevo  bien  o  una  nueva  clase  de  bienes;  el  uso  de  una  nueva  fuente  de  materias  primas  (ambas  innovación  en  producto);  la  incorporación  de  un  nuevo  método  de  producción  no  experimentado    en    determinado    sector    o    una    nueva    manera    de    tratar comercialmente   un   nuevo   producto   (innovación   de   proceso),   o   la   llamada innovación  de  mercado  que  consiste  en  la  apertura  de  un  nuevo  mercado  en  un  país o la implantación de una nueva estructura de mercado.
+
+
+** Innovación social
+
+La innovación social cada vez va tomando un rumbo de tal forma que se consolida como un eje prioritario en las agendas políticas llegando a la misma categoría de conceptos tales como sostenibilidad  o creatividad. Esta se define como un conjunto de nuevas ideas que se conviertan en servicios que logren satisfacer las necesidades sociales y de bienestar de los agentes que se ven inmiscuidos en una cultura colaborativa. Estas necesidades sociales pueden ser cuestiones de sostenibilidad ambiental, desempleo, pobreza, exclusión social o el desarrollo comunitario.
+
+Esta forma de innovar surge a partir de que en el mercado el giro hacia lo humano ha coincidido de manera rotunda con el aumento de redes de distribución, por lo que se puede asumir que algo de lo que sucede en el mercado implica la adopción de las ideas del sector social (Murray, 2011). Dado este cambio en las sociedades modernas, la innovación social cada vez gana mas terreno sobre las innovación tecnológica y los factores economicos.
+
+A pesar de la incursión en el mercado, la innovación social no se enfoca de manera escrita a un sector de la economía,  sino a la creación de productos y servicios que sirvan a la sociedad.
+
+Murray,  Caulier  y  Mulgan  (2010)  identificaron  seis  etapas  que  llevan  a  las  ideas desde el inicio hasta el impacto. Estas etapas no siempre son secuenciales (algunas innovaciones saltan directamente a la "práctica"), y hay ciclos de retroalimentación entre  ellos. Estas etapas para desarrollar el proceso de innovación social son las siguientes son las siguientes:
+
+    1. Prontitud, inspiraciones y diagnósticos
+    2. Propuestas e ideas
+    3. Creación de prototipos y pilotos
+    4. Sostenibilidad
+    5. La ampliación y difusión
+    6. El cambio sistemático
+
+
+** Emprendimiento social
+
+El emprendimiento social es un campo relativamente joven que ha conseguido obtner la atención tanto de mundo politico como del academico, esto a raiz de buscar una forma innovadora para eliminar los problemas sociales. Aunque se mantenga esta visión de lo que pretende ser el emprendimiento social, este no tiene una definición precisa ya que desde el punto de vista academico, existen diversas posturas al respecto.
+
+Martin  &  Osberg  (2007)  señalan  que  para  avanzar  en  el  entendimiento  del  emprendimiento social es importante establecer límites en su definición. Concretamente, los autores enfatizan que se debe distinguir el emprendimiento social del activismo social y de la provisión social de servicios. El activismo social se diferencia del emprendimiento social por el tipo de acción. En lugar de emprender una acción directa, el activista intenta influir al gobierno, a las ONG, a los consumidores o a los trabajadores entre otros, con el propósito de que estos realicen acciones directas para resolver un problema social. Aunque los autores señalan que los activistas sociales pueden generar un cambio social, no se les debe considerar emprendedores sociales dada la naturaleza estratégica de su acción.
+
+Por esto mismo para poder definir de manera precisa lo que es emprendimiento social, es necesario profundizar en las caracteristicas del emprendedor social, pues nuevamente este es el actor principal de este fenomeno.
+
+Según Drayton (2002), un emprendedor social tiene la misma esencia que un  emprendedor  del  mundo  de  los  negocios,  puesto  que  ambos  reconocen  cuando  una  parte  de  la  sociedad  está  estancada  y  proveen  nuevas  formas  de  activarla.  Ambos  visualizan un cambio sistémico identificando los puntos clave que les permitirá empujar a  la  sociedad  en  esta  nueva  tendencia  y  persistir  hasta  que  logran  su  objetivo. 
+
+Siguiendo esta linea, vale la pena hacer mención a que el emprendedor social mantiene primordialmente la creatividad, calidad emprendedora, una capacidad de extender el impacto de sus acciones y una etica que permite actuar de manera social. 
+
+*** Dimensiones del emprendimiento social
+
+
+*** Tipos o modelos de emprendimiento social
+
+**** Embedded Social Enterprise
+
+En las actividades comerciales y programas sociales integrados de la empresa social
+son sinónimos. Las actividades de la empresa están "integradas" dentro de la organización
+operaciones y programas sociales de la ización. Los profesionales crean
+empresas sociales para lograr la misión de su organización. El no para
+La población objetivo de beneficios (cliente) es un destinatario de la empresa, ya sea como
+mercado objetivo, un beneficiario directo, propietario o empleado. Programas sociales
+se autofinancian a través de los ingresos de la empresa y, por lo tanto, las redes sociales integradas
+La empresa también puede ser una estrategia de programa sostenible. La relación
+entre las actividades empresariales y los programas sociales es integral,
+lograr beneficios económicos y sociales simultáneamente.
+
+**** Integrated Social Enterprises
+
+En las empresas sociales integradas, los programas sociales se superponen con los de negocios.
+actividades, a menudo compartiendo costos, activos y atributos del programa. La empresa
+las actividades están "integradas" con las operaciones de la organización. Sin fines de lucro
+crear empresas sociales integradas como mecanismos de financiación para apoyar sus
+operaciones y actividades sociales; y / o como vehículos para expandir o mejorar
+la misión de la organización. Esto último se puede lograr comercializando
+servicios sociales a nuevos mercados de pago o proporcionando nuevos servicios
+a los clientes existentes. En las empresas sociales integradas, el cliente sin fines de lucro
+los beneficios de las inversiones realizadas en programas sociales frente a los obtenidos
+ingresos, pero puede o no estar involucrado en las operaciones de la empresa. Esta
+tipo de empresa social a menudo aprovecha los activos organizacionales, como la experiencia
+tise, contenido, relaciones, marca o infraestructura como base para
+son negocios. La relación entre las actividades empresariales y las sociales.
+programas es sinérgico, agregando valor, financiero y social, a uno
+otro.
+
+**** External Social Enterprises
+
+En las empresas sociales externas, los programas sociales son distintos de los
+ocupaciones. Las actividades de la empresa son "externas" a las operaciones de la organización.
+aciones y programas. Las organizaciones sin fines de lucro crean redes sociales externas
+empresas para financiar sus programas sociales y / o costos operativos. Misión
+La relevancia y la búsqueda de beneficios sociales no son requisitos previos de los negocios.
+ocupaciones. El cliente sin fines de lucro es un beneficiario indirecto de los ingresos y
+rara vez participa en algún aspecto operativo de la empresa social externa.
+Estas empresas sociales pueden beneficiarse o no del apalancamiento, la distribución de costos
+o programa sinergias, por lo tanto, para cumplir su propósito, deben ser
+factible. La relación entre las actividades empresariales y los programas sociales.
+es solidario, proporcionando fondos sin restricciones a los padres sin fines de lucro
+organización.
+
+*** Impacto - Indicadores del emprendimiento social
+
+
+** Empresa social
+
+
+Alvord  et  al.  (2004),  utilizando  el  concepto  de embeddedness(cuando un fenómeno penetra a otro y lo influye), definen al emprendedor social como aquel que mediante la movilización de recursos locales produce o cataliza algunas transformaciones o cambios sociales en su propio contexto. Para Mair y Martí(2004a),es el creador y ejecutor de modelos de negocios innovadores por medio de los cuales se ofrecen bienes y servicios orientados a la solución eficaz y autosuficiente de los problemas sociales humanos y del medio ambiente.En Austin et al. (2006) los emprendimientos sociales pueden ser una de las formas de ejercicio de la responsabilidad social empresarial (RSE) de las empresas con ánimo de lucro.Para Yunus(2006),el proceso de emprendimiento está regido por una misión personal, penetrada por el deseo de catalizar un cambio o una transformación social. Esta misión busca un efecto material y un resultado trascendente y contributivo en la comunidad de la cual hace parte,y para cristalizar la moviliza recursos hacia la solución de los problemas sociales y la satisfacción de las necesidades básicas humanas. Dorado (2005) propone que el emprendedor,apoyándose en su capital social, gestiona un proceso de cambio alrededor de una misión y un proyecto por medio del cual vislumbra un futuro mejor para las personas de su comunidad.Cuando el emprendedor tiene éxito, comienza el proceso de institucionalización del emprendimiento,formalizándose una organización que coordina y organiza los recursos y las capacidades para catalizar y ampliar el cambio social buscado (Austin et al., 2006). Este es el momento en el que surge,por esta vía,la estructuración de una empresa social como forma organizacional ulterior  al  emprendimiento  social  (institucionalización  del  emprendimiento).  Por  ejemplo,  Mohammed Yunus, premio Nobel de la Paz en 2006,vinculó su proyecto emprendedor con la generación de oportunidades de acceso al crédito en su comunidad, y para el lo movilizó recursos locales y se apalancó en su capital social como profesor universitario (Yunus, 2006). Con eltiempo institucionalizó su emprendimiento por mediode  una  organización  de  carácter  financiero  enfocadaen los mercados de rentas bajas (Grameen Bankde Bangladesh), pero lo más importante, por medio de esa organización creó valor social empoderando (empowerment) a las mujeres de su país(Raufflet y Hasan,2005;Yunus, 2006). Por otra parte, mediante este modelo de negocio, generó oportunidades económicas y sociales,ayudando a expandir las libertades y las capacidades personales de los clientes.
+
+
+*** Enfoques de la empresa social
+
+Estos indicadores nunca se pensaron para representar el grupo de  condiciones que una organización debe cumplir para ser   calificada como una   empresa social.En lugar de  constituir criterios prescriptivos,describen un  “tipo ideal” en términos de Weber,es  decir, una construcción abstracta que permite a los  investigadores posicionarse dentro de  la “galaxia” de  las  empresas sociales. En  otras palabras, constituyen una   herramienta, un  tanto análoga a una   brújula, que   ayuda a los  analistas a situar la posición de  las  entidades observadas en  relación a otras,e identificar eventualmente sub-grupos de  empresas sociales que   desean estudiar con   mayor profundidad. Estos indicadores permiten  identificar nuevas empresas sociales, pero también pueden dirigir sea designar como empresas sociales a antiguas organizaciones reestructuradas mediante nuevas dinámicas internas. Hasta ahora, los  indicadores se  han   presentado en  dos   subgrupos: una   lista de  cuatro indicadores  económicos y una   lista   de  cinco indicadores sociales (Defourny,2001:16-18). Sin  embargo, desde una   perspectiva comparada con   las  escuelas de  pensamientode  los  EE.UU., parece más apropiado presentar estos nueve indicadores en  tres   subgrupos en  lugar de  en  dos,lo que   permite resaltar formas particulares de  gobierno específicas para el  tipo   ideal de  empresa social de  EMES. Al  hacer esto, podremos reconocer más fácilmente muchas de  las  características usuales de  las  organizaciones de la economía social que   se  han   perfilado aquí, con   el  fin  de  resaltar nuevas dinámicas empresariales dentro del   tercer sector ( Defourny y Nyssens,2010).
+
+En  este enfoque EMES ligeramente reestructurado,los  tres   grupos de  criterios son:
+
+Dimensiones económicas y empresariales de las empresas sociales
+
+
+a)  Una actividad continua que   produce bienes y/o  vende servicios
+
+Las   empresas sociales,a diferencia de  algunas organizaciones nonprofit tradicionales, normalmente no  realizan actividades de   activismo o redistribución de  flujos financieros (como, por    ejemplo, muchas fundaciones) como actividad principal, sino que    están implicadas directamente en  la producción de  bien eso en  la provisión de  servicios a personas de  un  modo continuado. De  este modo, la actividad productiva representa el  motivo, o uno   de  los  motivos principales, para la existencia de  empresas   sociales.
+
+b)  Un  nivel significativo de  riesgo económico 
+
+Quienes fundan una   empresa social asumen total o parcialmente el  riesgo inherente a la iniciativa.A diferencia de  la mayoría de   instituciones públicas,la viabilidad financiera de  las  empresas sociales  depende de  los  esfuerzos de  sus   miembros y  trabajadores para asegurarlos  recursos adecuados.
+
+c)  Una mínima cantidad de  trabajo remunerado
+
+Como en  el  caso de  la mayoría de  organizaciones nonprofit tradicionales, las  empresas sociales también pueden combinar recursos monetarios y no  monetarios,y trabajadores voluntarios y remunerados. Sin  embargo, la actividad realizada en  las  empresas sociales requiere un  número mínimo de trabajadores remunerados. 
+
+
+Dimensiones sociales de las empresas sociales
+
+d)  Un  objetivo explícito para beneficiar a la comunidad 
+
+Uno de  los  principales objetivos de  las  empresas sociales es  servir a la comunidad o a un  grupo específico de  personas. Desde la misma perspectiva, una   característica de  las  empresas sociales es  su  deseo de  promover un  sentido de  responsabilidad social a nivel local.
+
+e)  Una iniciativa lanzada por   un  grupo de  ciudadanos u organizaciones de  la sociedad civil
+
+Las   empresas sociales son   el  resultado de  dinámicas colectivas que   implican a personas pertenecientes a una   comunidad o a un  grupo que   comparte una   necesidad o fin bien definido; esta dimensión colectiva debe mantenerse a lo largo del   tiempo de  un  modo u otro,pero no  debe descuidarse la importancia del   liderazgo (de  una   personao de  un  pequeño grupo de  líderes).
+
+f) Una distribución de  beneficios limitada
+
+La  primacía del   fin  social se  refleja en  la restricción de  la distribución de  beneficios. Sin  embargo, las  empresas sociales no  solo incluyen organizaciones caracterizadas por   una   restricción total de  no distribución, sino también organizaciones que,como las  cooperativas en  muchos países, pueden distribuir beneficios, pero solo en una cantidad limitada, lo que   permite evitar un  comportamiento de  maximización de  beneficios.
+
+
+Gobierno participativo de las empresas sociales
+
+g)  Un  alto   grado de  autonomía 
+
+Las   empresas sociales son   creadas por   un  grupo de  personas sobre la base de  un  proyecto autónomo y son   gobernadas por   estas personas. Pueden depender de  subsidios públicos pero no  son   gestionadas, directa o indirectamente, por   autoridades públicas u otras organizaciones (federaciones, firmas privadas, etc.). Tienen derecho tanto a ocupar su propia posición (“voz”) como a finalizar su actividad (“salida”).
+
+h)  Una facultad de  decisión no  basada en  la propiedad de  capital
+
+Este criterio generalmente se  refiere al  principio de  “un  miembro, un  voto” o como mínimo a un proceso de  toma de  decisiones en  el  que   el  poder de  voton o  está distribuido según las  acciones de capital en  el  órgano de  gobierno que   tiene el  derecho de  toma de  decisión última.
+
+i)  Una naturaleza participativa, que   involucra a diferentes partes afectadas por   la actividad  
+
+La  representación y participación de  usuarios o clientes, la influencia de  diversas partes interesadas en  la toma de  decisiones y  la gestión participativa constituyen a menudo importantes características de  las  empresas sociales. En  muchos casos, uno   de  los  objetivos de  las  empresas sociales es   conseguir mayor democracia a nivel local mediante la actividad económica.
+
+
+Como ya  se  ha  subrayado, estos indicadores pueden usarse para identificar empresas sociales totalmente nuevas, pero también pueden dirigirse designar como empresas sociales a antiguas orga-nizaciones reestructuradas mediante nuevas dinámicas internas. El  enfoque EMES ha  demostrado ser   empíricamente fértil; ha  constituido la base conceptual para muchas investigaciones de  EMES en  diferentes industrias, como las  de  servicios personales o desarrollo local (Borzagay Defourny,2001) o integración laboral (Nyssens,2006;Davisteret  al.,   2004),a veces ampliadas a Europa Central y del Este (Borzagaet  al.,   2008) o países no  comunitarios, como Suiza y Canadá (Gardinet  al.,   2012).
+
+
+** Ecosistema de emprendimiento social en México
+
+
+** Metodologías para el emprendimiento social
+
+*** Metodologia "The Social Business Journey"
+ 
+*** Otras metodologías
+
+
+
+
